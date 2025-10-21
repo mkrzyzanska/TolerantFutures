@@ -1,3 +1,5 @@
 # TolerantFutures
  
-This repository contains workflows and data used to run the models and prepare figures for the paper: Why heritage museums cannot foster tolerance in society: large-scale study of visitor’s beliefs and ideologies'.
+This repository contains the workflows used to run the models and prepare figures for the paper: Bonacchi C, Krzyzanska M, Sharpe K, Horne Z, Hingley R (2020) Fostering tolerance through museums: assessing visitor engagement with historical analogies at three archaeological galleries in the UK. Humanities and Social Sciences Communications.
+
+The data used in the study is published with Dataverse: [ADD REFERENCE]
